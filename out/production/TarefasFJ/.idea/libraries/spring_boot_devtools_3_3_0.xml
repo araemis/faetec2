@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-boot-devtools-3.3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/webapps/WEB-INF/lib/spring-boot-devtools-3.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

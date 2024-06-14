@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="/home/aramis/Downloads/apache-tomcat-9.0.89-deployer">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="/home/aramis/Documents/programming/java/TarefasFJ/out/production/TarefasFJ" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+  </Resources>
+</Context>

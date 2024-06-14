@@ -1,0 +1,36 @@
+05-Jun-2024 10:57:08.419 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.89
+05-Jun-2024 10:57:08.427 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 3 2024 20:22:11 UTC
+05-Jun-2024 10:57:08.428 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.89.0
+05-Jun-2024 10:57:08.428 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+05-Jun-2024 10:57:08.428 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.9.3-arch1-1
+05-Jun-2024 10:57:08.428 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+05-Jun-2024 10:57:08.429 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-17-openjdk
+05-Jun-2024 10:57:08.429 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.11+9
+05-Jun-2024 10:57:08.429 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+05-Jun-2024 10:57:08.429 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/aramis/Documents/programming/java/TarefasFJ
+05-Jun-2024 10:57:08.429 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/aramis/Downloads/apache-tomcat-9.0.89
+05-Jun-2024 10:57:08.438 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+05-Jun-2024 10:57:08.438 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+05-Jun-2024 10:57:08.438 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+05-Jun-2024 10:57:08.438 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+05-Jun-2024 10:57:08.438 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+05-Jun-2024 10:57:08.439 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/aramis/Downloads/apache-tomcat-9.0.89
+05-Jun-2024 10:57:08.439 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/aramis/Documents/programming/java/TarefasFJ
+05-Jun-2024 10:57:08.439 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/aramis/Documents/programming/java/TarefasFJ/temp
+05-Jun-2024 10:57:08.439 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/aramis/Documents/programming/java/TarefasFJ/conf/logging.properties
+05-Jun-2024 10:57:08.439 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-Jun-2024 10:57:08.439 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/home/aramis/Documents/IntelliJ/lib/idea_rt.jar=39265:/home/aramis/Documents/IntelliJ/bin
+05-Jun-2024 10:57:08.439 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+05-Jun-2024 10:57:08.441 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib]
+05-Jun-2024 10:57:08.883 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+05-Jun-2024 10:57:08.921 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [846] milliseconds
+05-Jun-2024 10:57:08.970 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Jun-2024 10:57:08.971 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.89]
+05-Jun-2024 10:57:08.979 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/home/aramis/Documents/programming/java/TarefasFJ/conf/Catalina/localhost/ROOT.xml]
+05-Jun-2024 10:57:09.347 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/home/aramis/Documents/programming/java/TarefasFJ/conf/Catalina/localhost/ROOT.xml] has finished in [367] ms
+05-Jun-2024 10:57:09.352 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+05-Jun-2024 10:57:09.396 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [471] milliseconds
+05-Jun-2024 10:58:05.944 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+05-Jun-2024 10:58:05.947 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+05-Jun-2024 10:58:05.964 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+05-Jun-2024 10:58:05.968 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
